@@ -1,0 +1,9 @@
+mediapipe==0.10.14
+opencv-python==4.10.0.82
+numpy==1.24.3
+
+####
+open terminal in the folder where this file present 
+run the command in terminal 
+pip install -r requirements.txt
+###
